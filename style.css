@@ -1,0 +1,21 @@
+.container{
+	height: 100vh;
+}
+
+.form{
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	background: #F2F2F2;
+	padding: 2rem;
+	border-radius: .5rem
+}
+
+.inputTitle{
+	font-weight: 600;
+	display: block;
+	margin-bottom: .5rem;
+}
+
+
+
